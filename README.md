@@ -20,16 +20,37 @@ Here are some ideas to get you started:
 I am on a journey to learn more about front-end technologies and web-developent, while also learning to be proficient in programming languages including JavaScript, HTML, CSS, and hopefully more!
 
 ### Connect with me!
-
-<div class="">
+<!--
+<div>
         <a href="https://sabrinaira.github.io/portfolio/">
         <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
     </a> &nbsp;
+</div>
+
+<div>
     <a href="https://www.linkedin.com/in/sabrinapira/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a> &nbsp;
-        <a href="https://www.youtube.com/@techsabby">
+</div>
+
+<div>
+   <a href="https://www.youtube.com/@techsabby">
         <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
     </a>
+</div> -->
 
+<div style="display: inline-block; margin-right: 10px;">
+  <a href="https://sabrinaira.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
+  </a>
+</div>
+<div style="display: inline-block; margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/sabrinapira/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+<div style="display:inline-block;">
+  <a href="https://www.youtube.com/@techsabby">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
+  </a>
 </div>
