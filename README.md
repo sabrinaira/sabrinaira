@@ -23,4 +23,7 @@ I am on a journey to learn more about front-end technologies and web-developent,
     <a href="https://www.linkedin.com/in/sabrinapira/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+        <a href="https://www.youtube.com/@techsabby">
+        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
+    </a>
 </div>
