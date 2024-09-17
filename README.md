@@ -21,14 +21,15 @@ I am on a journey to learn more about front-end technologies and web-developent,
 
 ### Connect with me!
 
-<div class="readme-links">
+<div class="">
         <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    </a>&nbsp;
         <a href="https://www.youtube.com/@techsabby" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
     </a>
+
 </div>
