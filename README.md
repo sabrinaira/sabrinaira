@@ -16,14 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <!--Aspiring full-stack developer combining art and code. Building a strong foundation in JavaScript, HTML, and CSS. Eager to create exceptional user experiences through web development and front-end technologies.-->
+
 I am on a journey to learn more about front-end technologies and web-developent, while also learning to be proficient in programming languages including JavaScript, HTML, CSS, and hopefully more!
 
 ### Connect with me!
+
 <div>
-    <a href="https://www.linkedin.com/in/sabrinapira/">
+        <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-        <a href="https://www.youtube.com/@techsabby">
+        <a href="https://www.youtube.com/@techsabby" target="_blank">
         <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
     </a>
 </div>
