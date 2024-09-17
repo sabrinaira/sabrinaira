@@ -21,7 +21,7 @@ I am on a journey to learn more about front-end technologies and web-developent,
 
 ### Connect with me!
 
-<div>
+<div class="readme-links">
         <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
         <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
     </a>
