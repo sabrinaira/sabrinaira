@@ -1,5 +1,3 @@
-## Hi, My name is Sabrina.
-
 <!--
 **sabrinaira/sabrinaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,31 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--Aspiring full-stack developer combining art and code. Building a strong foundation in JavaScript, HTML, and CSS. Eager to create exceptional user experiences through web development and front-end technologies.-->
+<center>
+
+## Hi, My name is Sabrina.
+
+**Pronouns**: she/ her <br>
 
 I am on a journey to learn more about front-end technologies and web-developent, while also learning to be proficient in programming languages including JavaScript, HTML, CSS, and hopefully more!
 
-### Connect with me!
-<!--
-<div>
-        <a href="https://sabrinaira.github.io/portfolio/">
-        <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
-    </a> &nbsp;
-</div>
+### Feel free to connect with me!
 
 <div>
-    <a href="https://www.linkedin.com/in/sabrinapira/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a> &nbsp;
-</div>
-
-<div>
-   <a href="https://www.youtube.com/@techsabby">
-        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
-    </a>
-</div> -->
-
-<div>
+<a href="mailto:tech_sabby-online@yahoo.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/> &nbsp;
 <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
 </a> &nbsp;
@@ -51,3 +37,12 @@ I am on a journey to learn more about front-end technologies and web-developent,
   <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
 </a>
 </div>
+
+---
+
+<div>
+<a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
+  <img src="https://www.codewars.com/users/techsabby/badges/large" alt="LinkedIn"/>
+</a> &nbsp;
+</div>
+<center>
