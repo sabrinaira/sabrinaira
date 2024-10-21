@@ -41,8 +41,8 @@ I am on a journey to learn more about front-end technologies and web-developent,
 ---
 
 <div>
-<a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
-  <img src="https://www.codewars.com/users/techsabby/badges/large" alt="LinkedIn"/>
+<a href="https://www.codewars.com/users/techsabby" target="_blank">
+  <img src="https://www.codewars.com/users/techsabby/badges/large" alt="code-wars"/>
 </a> &nbsp;
 </div>
 <center>
