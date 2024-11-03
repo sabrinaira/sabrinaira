@@ -1,12 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Itim&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
   margin: 0;
   padding: 0;
 }
 
 body {
-  display: block;
-  flex-direction: column;
+  font-family: Itim;
   justify-content: center;
   align-items: center;
+  /* border: hotpink solid 1px;
+  border-radius: 3rem; */
+}
+
+header {
+  font-family: Comfortaa;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+h1,
+h2,
+h3,
+h5 {
+  font-family: Comfortaa;
+  margin-left: 4rem;
+  margin-bottom: 0.5rem;
+}
+
+h4 {
+  font-family: Comfortaa;
+  margin-left: 0.2rem;
+  font-size: small;
+}
+
+nav {
+  margin-top: 2rem;
+}
+
+.links {
+  margin-top: 0.5rem;
+  margin-left: 4rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.links li {
+  list-style: none;
+}
+
+.links li a {
+  text-decoration: none;
+  color: rgb(214, 87, 151);
+  font-family: Comfortaa;
+  margin-inline: 1rem;
+  transition: 0.3s;
+}
+
+.links li a:hover {
+  cursor: pointer;
+  color: rgb(255, 202, 229);
+  background-color: black;
+  border: hotpink solid 1px;
+  border-radius: 3rem;
+  padding: 5px;
+  transition: 0.3s;
+}
+
+main {
+  margin-top: 2rem;
+}
+
+.profile {
+  width: 600px;
+  height: 270px;
+  border: hotpink solid 1px;
+  border-radius: 3rem;
+  margin-inline: 3rem;
+  padding: 1rem;
+}
+
+.profile div {
+  margin: 0.5rem;
+  display: flex;
+  align-items: center;
   text-align: center;
+}
+
+.profile div p {
+  padding-inline: 0.4rem;
+}
+
+.colors {
+  display: flex;
+  flex-direction: row;
+}
+
+.colors li {
+  list-style: none;
+  margin-inline: 0.3rem;
+  padding-inline: 0.3rem;
+  border-radius: 1rem;
+}
+
+.black {
+  background-color: black;
+  color: azure;
+}
+
+.hotpink {
+  background-color: hotpink;
+  color: rgb(255, 232, 254);
+}
+
+.babyblue {
+  background-color: #89cff0;
+  color: darkblue;
+}
+
+.lavender {
+  background-color: #d7b4f3;
+  color: rgb(73, 38, 145);
+}
+
+footer {
+  margin-top: 1rem;
+  margin-left: 2rem;
 }
