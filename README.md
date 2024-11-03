@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <center>
 
-## Hi, My name is Sabrina.
+## <a href="https://sabrinaira.github.io/sabrinaira/" target="_blank">Hi, My name is Sabrina.</a>
 
 **Pronouns**: she/ her <br>
 
@@ -25,7 +25,8 @@ I am on a journey to learn more about front-end technologies and web-developent,
 
 <div>
 <a href="mailto:tech_sabby-online@yahoo.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/> &nbsp;
+  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/>
+  </a> &nbsp;
 <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
 </a> &nbsp;
