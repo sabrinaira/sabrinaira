@@ -1,0 +1,19 @@
+{
+  "homepage": "https://sabrinaira.github.io/sabrinaira",
+  "name": "sabrinaira",
+  "version": "1.0.0",
+  "description": "**sabrinaira/sabrinaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
