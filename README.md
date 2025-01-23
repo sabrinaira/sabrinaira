@@ -1,51 +1,50 @@
-<!--
-**sabrinaira/sabrinaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# React + TypeScript + Vite
 
-Here are some ideas to get you started:
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Currently, two official plugins are available:
 
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/>
-  </a> &nbsp;
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
--->
+## Expanding the ESLint configuration
 
-<center>
+If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-## <a href="https://sabrinaira.github.io/sabrinaira/" target="_blank">Hi, My name is Sabrina.</a>
+- Configure the top-level `parserOptions` property like this:
 
-**Pronouns**: she/ her <br>
+```js
+export default tseslint.config({
+  languageOptions: {
+    // other options...
+    parserOptions: {
+      project: ['./tsconfig.node.json', './tsconfig.app.json'],
+      tsconfigRootDir: import.meta.dirname,
+    },
+  },
+})
+```
 
-I am an aspiring software engineer from New York. Whenever I'm not coding, I'm probably creating art instead!
+- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
+- Optionally add `...tseslint.configs.stylisticTypeChecked`
+- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
 
-### Feel free to connect with me!
+```js
+// eslint.config.js
+import react from 'eslint-plugin-react'
 
-<div>
-<a href="https://sabrinaira.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a> &nbsp;
-<a href="https://www.youtube.com/@techsabby"  
- target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto&labelColor=red" alt="Youtube"/>
-</a>
-</div>
-
----
-
-<div>
-<a href="https://www.codewars.com/users/techsabby" target="_blank">
-  <img src="https://www.codewars.com/users/techsabby/badges/large" alt="code-wars"/>
-</a> &nbsp;
-</div>
-<center>
+export default tseslint.config({
+  // Set the react version
+  settings: { react: { version: '18.3' } },
+  plugins: {
+    // Add the react plugin
+    react,
+  },
+  rules: {
+    // other rules...
+    // Enable its recommended rules
+    ...react.configs.recommended.rules,
+    ...react.configs['jsx-runtime'].rules,
+  },
+})
+```
