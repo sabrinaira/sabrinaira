@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/>
+  </a> &nbsp;
+
 -->
 
 <center>
@@ -19,14 +24,11 @@ Here are some ideas to get you started:
 
 **Pronouns**: she/ her <br>
 
-I am on a journey to learn more about front-end technologies and web-developent, while also learning to be proficient in programming languages including JavaScript, HTML, CSS, and hopefully more!
+I am an aspiring software engineer from New York. Whenever I'm not coding, I'm probably creating art instead!
 
 ### Feel free to connect with me!
 
 <div>
-<a href="mailto:tech_sabby-online@yahoo.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-me?style=for-the-badge&color=purple" alt="email"/>
-  </a> &nbsp;
 <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
 </a> &nbsp;
