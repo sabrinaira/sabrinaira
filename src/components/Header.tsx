@@ -1,15 +1,14 @@
-import React from "react";
+import React from 'react';
+import '../styles/header.module.css'
 
 const Header = () => (
   <header>
-    <h1>Hello, nice to meet you!</h1>
-    <nav className="nav">
-      {/* <ul className="links">
-        <li>
-          <a href="https://github.com/sabrinaira" target="_blank" rel="noopener noreferrer">Return to Github</a>
-        </li>
-      </ul> */}
-    </nav>
+    <h1>About Me</h1>
+    {/* <nav className='nav'>
+      <ul className='links'>
+        <li></li>
+      </ul>
+    </nav> */}
   </header>
 );
 

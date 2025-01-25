@@ -1,6 +1,6 @@
 import React from "react";
 
-const AboutMe = () => (
+const About = () => (
   <section className="profile">
     <h3>About Me</h3>
     <div>
@@ -43,4 +43,4 @@ const AboutMe = () => (
   </section>
 );
 
-export default AboutMe;
+export default About;
