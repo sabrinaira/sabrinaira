@@ -1,8 +1,8 @@
 import React from 'react';
-import '../styles/footer.module.css'
+import styles from '../styles/footer.module.css'
 
 const Footer = () => (
-  <footer>
+  <footer className={styles.footer}>
     <a
       href='https://github.com/sabrinaira'
       target='_self'

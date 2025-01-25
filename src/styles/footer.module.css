@@ -1,15 +1,15 @@
-footer {
+.footer {
   font-family: Parkinsans;
 }
 
-footer a {
+.footer a {
   text-decoration: none;
   color: #fd3592;
   font-family: Borel;
   transition: 0.3s;
 }
 
-footer a:hover {
+.footer a:hover {
   cursor: pointer;
   color: #ffd7e9;
   /* background-color: black;

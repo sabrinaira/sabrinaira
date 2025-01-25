@@ -1,10 +1,14 @@
-header {
+.header {
   font-family: Borel;
   margin-top: 3rem;
   color: #FD0D7D;
 }
 
-img {
+.text {
+  text-align: center;
+}
+
+.img {
   height:auto;
   width: 200px;
   border-radius: 10rem;
@@ -12,7 +16,7 @@ img {
   transition: 0.3s;
 }
 
-img:hover {
+.img:hover {
   border: #F5F7F3 solid 3px;
   transition: 0.3s;
   box-shadow: #ff54a4;
