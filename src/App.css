@@ -1,13 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Itim&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
-
 * {
   margin: 0;
   padding: 0;
 }
 
-body {
-  font-family: Itim;
+.body {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
   justify-content: center;
   align-items: center;
   /* border: hotpink solid 1px;
@@ -15,7 +14,7 @@ body {
 }
 
 header {
-  font-family: Comfortaa;
+  font-family: Arial, Helvetica, sans-serif;
   margin-top: 2rem;
   margin-left: 2rem;
 }
@@ -24,13 +23,14 @@ h1,
 h2,
 h3,
 h5 {
-  font-family: Comfortaa;
-  margin-left: 4rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  /* margin-left: 4rem; */
   margin-bottom: 0.5rem;
 }
 
 h4 {
-  font-family: Comfortaa;
+  font-family: Arial, Helvetica, sans-serif;
   margin-left: 0.2rem;
   font-size: small;
 }
@@ -42,18 +42,18 @@ nav {
 .links {
   margin-top: 0.5rem;
   margin-left: 4rem;
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
 }
 
 .links li {
   list-style: none;
 }
 
-.links li a {
+/* .links li a {
   text-decoration: none;
   color: rgb(214, 87, 151);
-  font-family: Comfortaa;
+  font-family: Arial, Helvetica, sans-serif;
   margin-inline: 1rem;
   transition: 0.3s;
 }
@@ -66,7 +66,7 @@ nav {
   border-radius: 3rem;
   padding: 5px;
   transition: 0.3s;
-}
+} */
 
 main {
   margin-top: 2rem;
@@ -126,5 +126,29 @@ main {
 
 footer {
   margin-top: 1rem;
-  margin-left: 2rem;
+  padding: 1rem
+  /* margin-left: 2rem; */
+}
+
+footer a {
+  text-decoration: none;
+  color: rgb(214, 87, 151);
+  font-family: Arial, Helvetica, sans-serif;
+  margin-inline: 1rem;
+  padding-bottom: 1rem;
+  transition: 0.3s;
+}
+
+footer a:hover {
+  cursor: pointer;
+  color: rgb(255, 202, 229);
+  background-color: black;
+  border: hotpink solid 1px;
+  border-radius: 3rem;
+  padding: 5px;
+  transition: 0.3s;
+}
+
+footer h5 {
+  padding-top: 1rem;
 }
