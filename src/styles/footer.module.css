@@ -1,28 +1,21 @@
 footer {
-  margin-top: 1rem;
-  padding: 1rem
-  /* margin-left: 2rem; */
+  font-family: Parkinsans;
 }
 
 footer a {
   text-decoration: none;
-  color: rgb(214, 87, 151);
-  font-family: Arial, Helvetica, sans-serif;
-  margin-inline: 1rem;
-  /* padding-bottom: 1rem; */
+  color: #fd3592;
+  font-family: Borel;
   transition: 0.3s;
 }
 
 footer a:hover {
   cursor: pointer;
-  color: rgb(255, 202, 229);
-  background-color: black;
-  border: hotpink solid 1px;
-  border-radius: 3rem;
-  padding: 5px;
+  color: #ffd7e9;
+  /* background-color: black;
+  border: #FD3592 solid 1px;
+  border-radius: 1rem;
+  padding: 0.1rem; */
+  text-shadow: 0px 0px 30px #ff54a4;
   transition: 0.3s;
-}
-
-footer h5 {
-  padding-top: 1rem;
 }

@@ -11,7 +11,7 @@ const Footer = () => (
       Return to Sabrina's Github
     </a>
 
-    <h5>&copy; 2024 - 2025 Sabrina Ira</h5>
+    <p>&copy; 2024 - 2025 Sabrina Ira</p>
   </footer>
 );
 

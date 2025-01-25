@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/header.module.css'
+import image from '../assets/sabby_profile_image.jpg'
 
 const Header = () => (
   <header>
@@ -9,6 +10,7 @@ const Header = () => (
         <li></li>
       </ul>
     </nav> */}
+    <img className='image' src={image} />
   </header>
 );
 
