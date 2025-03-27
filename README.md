@@ -10,7 +10,7 @@ I am a software engineer based in NYC. <br>
 Whenever I'm not coding, I'm probably creating art instead!
 <br>
 
-## Technologies
+<!-- ## Technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width:6%" alt="html5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="width:6%" alt="css3" />
@@ -28,7 +28,7 @@ Whenever I'm not coding, I'm probably creating art instead!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" style="width:6%" alt="mongoose" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="width:6%" alt="supabase" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:6%" alt="postgresql" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" style="width:6%" alt="webpack" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" style="width:6%" alt="webpack" /> -->
 
 ## Connect with me!
 
