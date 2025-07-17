@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- ## <a href="https://sabrinaira.github.io/sabrinaira/">Hi, My name is Sabrina.</a> -->
+## Hi, My name is Sabrina!
 
-<!-- **Pronouns**: she/ her <br> -->
+<a href="https://sabrinaira.github.io/sabrinaira/"><img src="https://i.imgur.com/nX5Bnnq.gif" style="border-radius: 1rem; height: auto; width: 90%;" alt="Sabrina's website"></a>
+</div>
 
-# <a href="https://sabrinaira.github.io/sabrinaira/"><img src="https://imgur.com/5hr6hIj.png" style="border-radius: 1rem; height: auto; width: 90%;" alt="Hi, My Name is Sabrina."></a>
+**Pronouns**: she/her
 
-I am a software engineer based in NYC. <br>
-Whenever I'm not coding, I'm probably creating art instead!
+I'm a software developer based in New York. <br>
+I’m passionate about solving technical problems, improving systems, and making technology more accessible. Outside of coding, yI enjoy creating art, watching movies, and exploring technology, like learning Linux or writing small shell scripts.
+
 <br>
 
 <!-- ## Technologies
@@ -30,33 +32,34 @@ Whenever I'm not coding, I'm probably creating art instead!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="width:6%" alt="postgresql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" style="width:6%" alt="webpack" /> -->
 
-## Connect with me!
+
+### Where you can find me
 
 <!-- &nbsp; -->
 <div>
-<!-- <a href="https://sabrinaira.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portoflio-pink?style=for-the-badge&logoColor=pink&labelColor=pink" alt="Portfolio"/>
-</a> -->
+<a href="https://sabrinaira.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/portfolio-pink?style=flat&logoColor=pink&labelColor=pink" alt="Portfolio"/>
+</a>
 <!-- <a href="https://www.instagram.com/"  
  target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a> -->
+<a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230066B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://gravatar.com/sabrinaira"  
  target="_blank">
-  <img src="https://img.shields.io/badge/Gravatar-none?style=for-the-badge&logo=gravatar&logoColor=white&color=%231E8CBE" alt="Gravatar"/>
+  <img src="https://img.shields.io/badge/gravatar-none?style=flat&logo=gravatar&logoColor=white&color=%231E8CBE" alt="Gravatar"/>
 </a>
-<a href="https://sabrinaira.medium.com/"  
+<!-- <a href="https://sabrinaira.medium.com/"  
  target="_blank">
   <img src="https://img.shields.io/badge/Medium-none?style=for-the-badge&logo=medium&logoColor=black&color=white" alt="Medium"/>
-</a>
-<a href="https://www.linkedin.com/in/sabrinapira/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230066B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+</a> -->
 <!-- <a href="https://www.youtube.com/"  
  target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube"/>
 </a> -->
-</div>
+
 
 <!--
 <div>
