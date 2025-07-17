@@ -1,0 +1,146 @@
+%glass-panel {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-radius: 0.4rem;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  transition: 0.3s;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+* p {
+  font-family: Istok Web, sans-serif;
+}
+
+body {
+  background: linear-gradient(
+    135deg,
+    #111122,
+    #1c1c30,
+    #292945,
+    #1c1c30,
+    #111122
+  );
+  background-size: 400% 400%;
+  animation: gradientShift 15s ease infinite;
+  color: #eaeaea;
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutme,
+footer {
+  @extend %glass-panel;
+}
+
+header {
+  padding: 3rem 3rem;
+  text-align: center;
+  h1 {
+    padding: 0rem 0rem 3rem;
+    font-family: Raleway, sans-serif;
+    font-weight: 300;
+    color: #1fc2ef;
+    text-shadow: 0 0 10px #00c3ff;
+  }
+  .photo {
+    @extend %glass-panel;
+    padding: 1.2rem;
+    height: 12rem;
+    width: 12rem;
+    border: 0.125rem solid #a3ffd6ab;
+    border-radius: 50%;
+    box-shadow: inset 0 0 20px #1fc2ef;
+    transition: 0.5s;
+    &:hover {
+      box-shadow: inset 0 0 40px #bdf2f7;
+      border-color: #bdf2f7;
+    }
+    img {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+      filter: grayscale(100%);
+    }
+  }
+}
+
+.aboutme {
+  height: 20rem;
+  width: 25rem;
+  &:hover {
+    border: #f5f7f3 solid 1px;
+    box-shadow: 0 0 0.2rem #f5f7f3;
+    transition: 0.5s;
+  }
+  .aboutme-container {
+    height: 20rem;
+    width: 25rem;
+    overflow-y: scroll;
+    background-color: #11112284;
+    .aboutme-text {
+      font-size: 1rem;
+      color: #e1f3fc;
+      padding: 0.5rem;
+    }
+  }
+}
+
+footer {
+  margin: 2rem 0 0;
+  padding: 1rem 2rem 0rem;
+  text-align: center;
+  &:hover {
+    border: #f5f7f3 solid 1px;
+    box-shadow: 0 0 0.2rem #f5f7f3;
+    transition: 0.5s;
+  }
+  .link {
+    @extend %glass-panel;
+    padding: 0.3rem;
+    margin: 0.6rem 0;
+    &:hover {
+      background: rgba(207, 207, 213, 0.406);
+    }
+    a {
+      font-family: Open Sans, arial, sans-serif;
+      text-decoration: none;
+      color: #1fc2ef;
+      text-shadow: 0 0 0.05rem #00c3ff;
+      transition: 0.3s;
+      margin-bottom: 5rem;
+      &:hover {
+        cursor: pointer;
+        color: #bdf2f7;
+        transition: 0.1s;
+      }
+    }
+  }
+  p {
+    margin-block: 1rem;
+    color: #a3ffd6;
+  }
+}

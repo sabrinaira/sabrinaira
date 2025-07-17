@@ -4,7 +4,7 @@ import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 
 const App = () => (
-  <main className='body'>
+  <main>
     <Header />
     <AboutMe />
     <Footer />
