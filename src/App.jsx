@@ -4,13 +4,11 @@ import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 
 const App = () => (
-  <div className='body'>
+  <main className='body'>
     <Header />
-    <main>
-      <AboutMe />
-    </main>
+    <AboutMe />
     <Footer />
-  </div>
+  </main>
 );
 
 export default App;
