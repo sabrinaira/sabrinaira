@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from '../styles/header.module.css'
 
-const image = "https://i.imgur.com/Z0gaIbq.jpeg"
+const image = "https://i.ibb.co/QjJyj9zw/sabrinaira-photo2.jpg"
 
 const Header = () => (
   <header className={styles.header}>
