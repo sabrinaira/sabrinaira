@@ -8,7 +8,7 @@
 **Pronouns**: she/her
 
 I'm a software developer based in New York. <br>
-I’m passionate about solving technical problems, improving systems, and making technology more accessible. Outside of coding, yI enjoy creating art, watching movies, and exploring technology, like learning Linux or writing small shell scripts.
+I’m passionate about solving technical problems, improving systems, and making technology more accessible. Outside of coding, I enjoy creating art, watching movies, and exploring technology, like learning Linux or writing small shell scripts.
 
 <br>
 
