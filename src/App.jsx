@@ -3,15 +3,12 @@ import Header from './components/Header';
 import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 
-// Main App Component
 const App = () => (
-  <div className='body'>
+  <main>
     <Header />
-    <main>
-      <AboutMe />
-    </main>
+    <AboutMe />
     <Footer />
-  </div>
+  </main>
 );
 
 export default App;
