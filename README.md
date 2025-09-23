@@ -1,4 +1,4 @@
-## Hi there 👋
+## I have moved! 👋
 
 <!--
 **sabrinaira/sabrinaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🌱 A Fresh Start
+I’ve updated my username to better represent my identity.  
+Come join me on my new link: [@sabpolutan](https://github.com/sabpolutan) 💻✨
